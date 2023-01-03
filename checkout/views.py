@@ -113,4 +113,3 @@ def checkout_success(request, order_number):
     }
 
     return render(request, template, context)
-# 'stripe_public_key': 'pk_test_51MLnvRBA9e1q2huTw8ppPJOhZIwp9zDVHyXEzqPN0WTDPmgUoJYvDMD2wdXnTsp3yphDIyUbafvO1e6VoQKbhqkM00mzolrcLh',
